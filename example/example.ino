@@ -1,9 +1,9 @@
-#include <Meld.h>
+#include <Malt.h>
 
-Meld meld;
+Malt malt;
 
 void setup() {
-    meld.setup();
+    malt.setup();
 }
 
 void loop() {
